@@ -5,7 +5,7 @@ let map = function (arr, fn){
         result.push(fn(arr[i], i))
     }
 
-    
+    return result
 
 
 
