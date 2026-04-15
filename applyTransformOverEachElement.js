@@ -8,5 +8,4 @@ let map = function (arr, fn){
     return result
 
 
-
 }
